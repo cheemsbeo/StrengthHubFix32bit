@@ -1,0 +1,1 @@
+# StrengthHubFix32bit
